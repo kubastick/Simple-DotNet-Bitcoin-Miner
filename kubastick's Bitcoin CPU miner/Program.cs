@@ -35,7 +35,6 @@ namespace kubastick_s_Bitcoin_CPU_miner
             }
             User = login;
             Password = password;
-           // return 0;
         }
 
         private string InvokeMethod(string method, string paramString = null)
